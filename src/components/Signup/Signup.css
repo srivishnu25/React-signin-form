@@ -1,0 +1,13 @@
+input{
+  width:fit-content;
+}
+form{
+    background-color: bisque;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+textarea{
+    width:150px;
+}

@@ -1,0 +1,12 @@
+form{
+    width:50%;
+    margin:2% auto;
+    padding:3% auto;
+    text-align: center;
+}
+label{
+    margin-right: 14px;
+}
+input{
+    margin-bottom: 2%;
+}
